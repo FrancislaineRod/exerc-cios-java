@@ -16,12 +16,12 @@ seguinte link: [Lista de Estrutura Sequencial](https://wiki.python.org.br/Estrut
 
 Essa é a lista dos exercícios que foram propostos pelo professor **Montanha**!
 
-- [Repositório do primeiro exercício](https://github.com/Gabriel-Paes/java_exer01)
-- [Repositório do segundo exercício](https://github.com/Gabriel-Paes/java_exer02)
-- [Repositório do terceiro exercício](https://github.com/Gabriel-Paes/java_exer03)
-- [Repositório do quarto exercício](https://github.com/Gabriel-Paes/java_exer04)
-- [Repositório do quinto exercício](https://github.com/Gabriel-Paes/java_exer05)
-- [Repositório do sexto exercício](https://github.com/Gabriel-Paes/java_exer06)
-- [Repositório do setímo exercício](https://github.com/Gabriel-Paes/java_exer07)
-- [Repositório do oitavo exercício](https://github.com/Gabriel-Paes/java_exer08)
-- [Repositório do nono exercício](https://github.com/Gabriel-Paes/java_exer09)
+- [Repositório do primeiro exercício](https://github.com/FrancislaineRod/lista01-ex01)
+- [Repositório do segundo exercício](https://github.com/FrancislaineRod/lista01-ex02)
+- [Repositório do terceiro exercício](https://github.com/FrancislaineRod/lista01-ex03)
+- [Repositório do quarto exercício](https://github.com/FrancislaineRod/lista01-ex04)
+- [Repositório do quinto exercício](https://github.com/FrancislaineRod/lista01-ex05)
+- [Repositório do sexto exercício](https://github.com/FrancislaineRod/lista01-ex06)
+- [Repositório do setímo exercício](https://github.com/FrancislaineRod/lista01-ex07)
+- [Repositório do oitavo exercício](https://github.com/FrancislaineRod/lista01-ex08)
+- [Repositório do nono exercício](https://github.com/FrancislaineRod/lista01-ex09)
